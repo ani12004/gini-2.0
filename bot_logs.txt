@@ -1,0 +1,58 @@
+[2025-09-21 10:33:26] SYSTEM (SYSTEM) | START_BOT | 
+[2025-09-21 10:33:38] SYSTEM (SYSTEM) | ERROR | Analysis API call failed: KeyError('\n  "result"')
+[2025-09-21 10:33:38] 6564271105 (annii_dynamite) | ANALYSIS | Result=UNSURE Conf=40
+[2025-09-21 10:43:26] 6564271105 (annii_dynamite) | CHAT | hey
+[2025-09-21 10:43:39] 6564271105 (annii_dynamite) | CHAT | who are you
+[2025-09-21 10:44:06] 6564271105 (annii_dynamite) | CHAT | whats your role
+[2025-09-21 10:44:23] 6564271105 (annii_dynamite) | CHAT | thats nice
+[2025-09-21 10:44:58] SYSTEM (SYSTEM) | ERROR | Analysis API call failed: KeyError('\n  "result"')
+[2025-09-21 10:44:58] 6564271105 (annii_dynamite) | ANALYSIS | Result=UNSURE Conf=40
+[2025-09-21 11:42:23] SYSTEM (SYSTEM) | START_BOT | 
+[2025-09-21 11:43:12] SYSTEM (SYSTEM) | ERROR | Analysis API call failed: KeyError('\n  "result"')
+[2025-09-21 11:43:12] 6564271105 (annii_dynamite) | ANALYSIS | Result=UNSURE Conf=40
+[2025-09-21 11:43:23] 6564271105 (annii_dynamite) | CHAT | hey
+[2025-09-21 11:43:50] 6564271105 (annii_dynamite) | CHAT | how to fix your error 
+Could not analyze due to a 
+[2025-09-21 11:52:31] User:SYSTEM (SYSTEM) | BOT_START | 
+[2025-09-21 11:52:46] User:SYSTEM (SYSTEM) | RAW_GEMINI_RESPONSE | {"result": "UNSURE", "confidence": 40, "reason": "The offer seems legitimate, but the unusually long validity period raises suspicion.", "why_card_en": ["The offer is not inherently suspicious, but the long validity period (until 2025) is unusual for such promotions.", "Lack of specific DMart Ready details and a verifiable link make it hard to confirm authenticity."], "why_card_hi": ["ऑफ़र स्वाभाविक रूप से संदिग्ध नहीं है, लेकिन इस तरह के प्रचार के लिए लंबी वैधता अवधि (2025 तक) असामान्य है।", "विशिष्ट DMart रेडी विवरण और सत्यापन योग्य लिंक की कमी से इसकी प्रामाणिकता की पुष्टि करना कठिन है।"], "red_flags": ["Unusually long validity period"]}
+[2025-09-21 11:52:47] User:6564271105 (annii_dynamite) | ANALYSIS_SUCCESS | Result=UNSURE, Conf=40
+[2025-09-21 11:54:49] User:SYSTEM (SYSTEM) | BOT_START | 
+[2025-09-21 11:56:04] User:SYSTEM (SYSTEM) | RAW_GEMINI_IMAGE_RESPONSE | 1. **Image Description:** The image is a stylized logo. It depicts a genie emerging from a magic lamp, which is designed to look like a circuit board.  The genie is rendered in a bluish-white, glowing style, while the lamp is predominantly dark blue/purple with green circuit highlights.  A Wi-Fi symbol is present beneath the lamp. The text "TECH_GINI" is prominently displayed below.
+
+2. **Manipulation:** The image is highly stylized and clearly digitally created. It shows no signs of being a photograph that has been manipulated; instead, it's likely entirely generated digitally using design software or AI art generation tools.  The smoothness of the lines, glowing effects, and overall consistent style strongly suggest digital creation.
+
+3. **Contextual Analysis:** Given the caption "_/search_" and the image's design incorporating technology elements (circuit board lamp, Wi-Fi symbol) along with a genie (suggesting wishes or solutions), it is highly probable this is a logo for a tech co
+[2025-09-21 11:56:04] User:6564271105 (annii_dynamite) | IMAGE_ANALYSIS_SUCCESS | 
+[2025-09-21 11:58:38] User:SYSTEM (SYSTEM) | BOT_START | 
+[2025-09-21 11:59:20] User:6564271105 (annii_dynamite) | PHOTO_HANDLER_COMMAND_REDIRECT | 
+[2025-09-21 11:59:44] User:6564271105 (annii_dynamite) | PHOTO_HANDLER_COMMAND_REDIRECT | 
+[2025-09-21 12:02:13] User:SYSTEM (SYSTEM) | BOT_START | 
+[2025-09-21 12:02:25] User:6564271105 (annii_dynamite) | PHOTO_HANDLER_COMMAND_REDIRECT | 
+[2025-09-21 12:02:58] User:SYSTEM (SYSTEM) | RAW_GEMINI_IMAGE_RESPONSE | 1. **Image Description:** The image is a stylized logo design featuring a genie emerging from a magic lamp.  The lamp is depicted as a circuit board, with glowing green and blue lines suggesting electrical pathways and digital energy. The genie is rendered in a sleek, almost metallic style, with flowing, light-blue energy trails. The text "TECH_GINI" is prominently displayed below the lamp. A Wi-Fi symbol is also present. The background is dark with purple and blue gradients.
+
+2. **Manipulation Assessment:** The image is highly likely to be digitally created, either through digital painting software or AI image generation tools.  The sharp lines, smooth gradients, and overall polished aesthetic strongly suggest digital manipulation.  There are no obvious signs of clumsy photo editing or inconsistencies that would indicate amateur Photoshopping.
+
+3. **Contextual Analysis:** The image appears to be a logo for a technology company or brand named "TECH_GINI". The use of the genie and lamp 
+[2025-09-21 12:02:58] User:6564271105 (annii_dynamite) | IMAGE_ANALYSIS_SUCCESS | 
+[2025-09-21 12:06:27] User:SYSTEM (SYSTEM) | BOT_START | 
+[2025-09-21 12:06:49] User:SYSTEM (SYSTEM) | RAW_GEMINI_IMAGE_RESPONSE | **1. Image Description:** The image is a digital rendering of a red rubber stamp with the word "RULES" imprinted in a bold, sans-serif font.  The stamp has a distressed, worn look, suggesting age and use. The background is white.
+
+**2. Manipulation Check:** The image shows clear signs of digital manipulation. The texture and wear are too uniform and stylized to be a genuine photograph of a rubber stamp.  It's likely created using graphic design software.
+
+**3. Contextual Analysis:** Without a caption, the image's purpose is unclear.  However, given the word "RULES," the image is likely intended to represent regulations, guidelines, or restrictions.  Its styled appearance suggests it's likely for illustrative purposes rather than a genuine stamp. The authenticity is low; it's a digitally created graphic.
+
+[2025-09-21 12:06:49] User:6564271105 (annii_dynamite) | IMAGE_ANALYSIS_SUCCESS | 
+[2025-09-21 12:07:22] User:SYSTEM (SYSTEM) | RAW_GEMINI_IMAGE_RESPONSE | 1. **Image Description:** The image is a photograph of a page from the *Janasatta* newspaper, a Hindi-language publication.  The page features various news articles and advertisements, including a prominent image of Narendra Modi. Text is primarily in Hindi.
+
+2. **Manipulation Check:**  No obvious signs of digital manipulation are visible. The image appears to be a straightforward photograph of a printed newspaper page.  There's no blurring, inconsistencies in lighting or shadow, or other artifacts typically associated with image manipulation.
+
+3. **Contextual Analysis:** Given the appearance of a typical newspaper layout, the Hindi text, and the inclusion of current events (mentioned in the OCR), the image is likely authentic.  It appears to be a genuine photograph of a *Janasatta* newspaper page, possibly shared to showcase news coverage. The purpose is likely informational, sharing news from the newspaper.
+
+[2025-09-21 12:07:23] User:6564271105 (annii_dynamite) | IMAGE_ANALYSIS_SUCCESS | 
+[2025-09-21 12:09:37] User:SYSTEM (SYSTEM) | BOT_START | 
+[2025-09-21 12:10:03] User:SYSTEM (SYSTEM) | RAW_GEMINI_ANALYSIS_RESPONSE | {"result": "UNSURE", "confidence": 50, "reason": "The image contains a logo for a company called Tech_Gini.  There is no information to determine if this is a scam or fake news.", "why_card_en": ["The image is a logo, not a news article or advertisement.", "Without additional context, it's impossible to determine if Tech_Gini is legitimate or a scam."], "why_card_hi": ["यह इमेज एक लोगो है, न्यूज़ आर्टिकल या विज्ञापन नहीं।", "अतिरिक्त संदर्भ के बिना यह निर्धारित करना असंभव है कि Tech_Gini वैध है या घोटाला है।"], "red_flags": []}
+[2025-09-21 12:10:04] User:6564271105 (annii_dynamite) | ANALYSIS_SUCCESS | Result=UNSURE
+[2025-09-21 12:10:35] User:SYSTEM (SYSTEM) | RAW_GEMINI_ANALYSIS_RESPONSE | {"result": "REAL", "confidence": 90, "reason": "The image shows a page from the Janasatta newspaper, a known publication in India.  The content appears to be typical news reporting.", "why_card_en": ["The image is from a known Indian newspaper.", "The text is consistent with news reporting."], "why_card_hi": ["यह छवि एक जाने-माने भारतीय समाचार पत्र से है।", "पाठ समाचार रिपोर्टिंग के अनुरूप है।"], "red_flags": []}
+[2025-09-21 12:10:36] User:6564271105 (annii_dynamite) | ANALYSIS_SUCCESS | Result=REAL
+[2025-09-21 12:11:59] User:SYSTEM (SYSTEM) | RAW_GEMINI_ANALYSIS_RESPONSE | {"result": "FAKE", "confidence": 95, "reason": "The image is a fabricated news report about a monster attack.  The 'news network' and 'source' are fake, and the date is in the future.", "why_card_en": ["This is a digitally created image, not a real news report.", "There is no evidence to support the claim of a monster attack."], "why_card_hi": ["यह एक डिजिटल रूप से बनाई गई छवि है, वास्तविक समाचार रिपोर्ट नहीं।", "राक्षस हमले के दावे का समर्थन करने के लिए कोई सबूत नहीं है।"], "red_flags": ["Fake News Source", "Suspicious Date", "Implausible Event"]}
+[2025-09-21 12:11:59] User:6564271105 (annii_dynamite) | ANALYSIS_SUCCESS | Result=FAKE

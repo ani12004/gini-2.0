@@ -1,0 +1,6 @@
+# Save as requirements.txt
+python-dotenv
+pyTelegramBotAPI
+google-generativeai
+requests
+Pillow
